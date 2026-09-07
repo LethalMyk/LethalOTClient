@@ -9,8 +9,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.32.13569",
-	"launcherVersion": "1.0",
+	"clientVersion": "15.25",
+	"launcherVersion": "1.0.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "LethalOT Server",
-	"newClientUrl" : "https://github.com/LethalMyk/LethalOTClient/releases/download/V1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/LethalMyk/LethalOTClient/releases/download/V1.0.1/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
